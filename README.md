@@ -1,2 +1,1 @@
-# GB-study
-GeekBrains study
+new main content
